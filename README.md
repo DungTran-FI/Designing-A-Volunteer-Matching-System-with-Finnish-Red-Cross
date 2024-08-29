@@ -2,6 +2,9 @@
 
 Welcome to the **Volunteer Matching System (VMS)** project! This project is part of the "Databases for Data Science" course at Aalto University and is designed to demonstrate advanced database design and SQL skills. The goal is to develop a relational database to match Red Cross Volunteer Capacity (supply) with Local Multidimensional Vulnerabilities and Crises (demand).
 
+## The entire process, from database creation and running SQL queries to data visualization, is documented in:
+- [Final Project Report](Group 20 - Final project deliverable package.pdf)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -10,7 +13,7 @@ Welcome to the **Volunteer Matching System (VMS)** project! This project is part
 - [Tasks](#tasks)
 - [Database Design](#database-design)
   - [Part 1: UML and Relational Model](#part-1-uml-and-relational-model)
-  - [Part 2: SQL Implementation](#part-2-sql-implementation)
+  - [Part 2: SQL Implementation And Python Data Visualization](#Part-2-SQL-Implementation-And-Python-Data-Visualization)
 - [Finnish Red Cross](#finnish-red-cross)
 - [Disclaimer - Group Contribution](#disclaimer)
 
@@ -28,7 +31,7 @@ The primary objectives of this project are:
 
 ## Synthetic Dataset
 
-This project uses a **synthetic dataset** to simulate real-world scenarios. The synthetic data provides a controlled environment to test and validate the database design and SQL queries, ensuring that the system performs as expected before applying it to real data.
+This project uses a [synthetic dataset](data.xlsx) to simulate real-world scenarios. The synthetic data provides a controlled environment to test and validate the database design and SQL queries, ensuring that the system performs as expected before applying it to real data.
 
 ## Tasks
 
@@ -37,10 +40,10 @@ This project uses a **synthetic dataset** to simulate real-world scenarios. The 
    - Convert the UML diagram to a relational schema.
    - Normalize the database and address any anomalies.
 
-2. **Part 2: SQL Implementation**
-   - Implement [SQL queries](Queries.sql) based on the synthetic data. 
+2. **Part 2: SQL Implementation And Python Data Visualization**
+   - [Create database](create_and_file_db_psql.sql), [connect with PostgreSQL](Group20_Python_create_database.py) and implement [SQL queries](Queries.sql) based on the synthetic data. 
    - Develop views, triggers, and functions as specified.
-   - Perform data analysis and generate meaningful insights.
+   - Perform [data analysis using Python](Group 20-project part 2-data analysis.py) and generate meaningful insights.
 
 ### Addition
 
