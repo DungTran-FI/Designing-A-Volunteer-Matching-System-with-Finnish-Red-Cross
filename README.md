@@ -38,7 +38,7 @@ This project uses a **synthetic dataset** to simulate real-world scenarios. The 
    - Normalize the database and address any anomalies.
 
 2. **Part 2: SQL Implementation**
-   - Implement SQL queries based on the synthetic data.
+   - Implement [SQL queries](Queries.sql) based on the synthetic data. 
    - Develop views, triggers, and functions as specified.
    - Perform data analysis and generate meaningful insights.
 
