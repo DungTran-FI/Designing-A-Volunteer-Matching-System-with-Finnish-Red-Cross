@@ -3,7 +3,7 @@
 Welcome to the **Volunteer Matching System (VMS)** project! This project is part of the "Databases for Data Science" course at Aalto University and is designed to demonstrate advanced database design and SQL skills. The goal is to develop a relational database to match Red Cross Volunteer Capacity (supply) with Local Multidimensional Vulnerabilities and Crises (demand).
 
 ## The entire process, from database creation and running SQL queries to data visualization, is documented in:
-- [Final Project Report](Group 20 - Final project deliverable package.pdf)
+- [Final project report](https://github.com/DungTran-FI/Designing-A-Volunteer-Matching-System-with-Finnish-Red-Cross/blob/main/Group%2020%20-%20Final%20project%20deliverable%20package.pdf)
 
 ## Table of Contents
 
